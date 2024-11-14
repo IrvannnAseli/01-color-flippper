@@ -1,1 +1,2 @@
-sigma
+*_Yang di Rubah adalah_*
+Sedikit Tampilanya
